@@ -1,0 +1,8 @@
+python-dotenv==1.0.0
+Requests==2.30.0
+tktinker==8.6.10
+smtplib==3.9.0
+os==0.1.0
+json==2.0.9
+csv==1.0
+datetime==4.3
